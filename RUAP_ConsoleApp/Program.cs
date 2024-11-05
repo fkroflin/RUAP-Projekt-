@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav, iz aplikacije od Frana Kroflina!");
+            Console.WriteLine("Pozdrav, iz aplikacije od Frana Kroflina! INDEX");
         }
     }
 }
